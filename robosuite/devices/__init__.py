@@ -1,5 +1,6 @@
 from .device import Device
 from .keyboard import Keyboard
+from .joycon import JoyCon
 
 try:
     from .spacemouse import SpaceMouse
